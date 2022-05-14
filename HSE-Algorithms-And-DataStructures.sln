@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations_LeastCommonMultiple_GreatestCommonDivisor", "Permutations_LeastCommonMultiple_GreatestCommonDivisor\Permutations_LeastCommonMultiple_GreatestCommonDivisor.csproj", "{7AC0B6A7-C781-42F4-A675-4A5D757CA483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalInvestments", "OptimalInvestments\OptimalInvestments.csproj", "{A844C00A-81CD-4946-AC1C-478184FA5A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfRoutes_GivenGraph", "NumberOfRoutes_GivenGraph\NumberOfRoutes_GivenGraph.csproj", "{05627CC8-5892-483D-8816-91C3FC292238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations", "Combinations\Combinations.csproj", "{7E5AE3E1-93F3-411D-AAF5-D7386B80B373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloidWinForm", "FloidWinForm\FloidWinForm.csproj", "{6A3E5A58-C247-46D3-8318-4B96D5295B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnsonWinForm", "JohnsonWinForm\JohnsonWinForm.csproj", "{E31E68FF-B293-4CD5-9A6A-1B542C0DA0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC0B6A7-C781-42F4-A675-4A5D757CA483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC0B6A7-C781-42F4-A675-4A5D757CA483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC0B6A7-C781-42F4-A675-4A5D757CA483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC0B6A7-C781-42F4-A675-4A5D757CA483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A844C00A-81CD-4946-AC1C-478184FA5A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A844C00A-81CD-4946-AC1C-478184FA5A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A844C00A-81CD-4946-AC1C-478184FA5A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A844C00A-81CD-4946-AC1C-478184FA5A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05627CC8-5892-483D-8816-91C3FC292238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05627CC8-5892-483D-8816-91C3FC292238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05627CC8-5892-483D-8816-91C3FC292238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05627CC8-5892-483D-8816-91C3FC292238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5AE3E1-93F3-411D-AAF5-D7386B80B373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5AE3E1-93F3-411D-AAF5-D7386B80B373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5AE3E1-93F3-411D-AAF5-D7386B80B373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5AE3E1-93F3-411D-AAF5-D7386B80B373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3E5A58-C247-46D3-8318-4B96D5295B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3E5A58-C247-46D3-8318-4B96D5295B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3E5A58-C247-46D3-8318-4B96D5295B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3E5A58-C247-46D3-8318-4B96D5295B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31E68FF-B293-4CD5-9A6A-1B542C0DA0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31E68FF-B293-4CD5-9A6A-1B542C0DA0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31E68FF-B293-4CD5-9A6A-1B542C0DA0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31E68FF-B293-4CD5-9A6A-1B542C0DA0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E23E9E0-61FF-4A94-8667-BAFCBBE9F61D}
+	EndGlobalSection
+EndGlobal
